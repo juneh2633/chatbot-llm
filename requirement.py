@@ -1,0 +1,9 @@
+pandas
+numpy
+faiss
+os
+json
+re
+google.generativeai
+requests
+dotenv
